@@ -1,7 +1,10 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-I created the project on the 2nd July
+I created the project on the 2nd July 2021
+
+### Author
+Lebogang Sehoole
 
 ### Project Title
 Bikeshare between Chicago, New York City and Washington DC
