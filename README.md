@@ -9,6 +9,9 @@ Lebogang Sehoole
 ### Project Title
 Bikeshare between Chicago, New York City and Washington DC
 
+### Software required
+The code works with any software that take .py files. The code was written using Visual Studio Code.
+
 ### Description
 The project allowed the user to pick the city they wanted to see data for, thereafter they could choose the month and day of the week they wanted to see statistics for. The project then ran a few statistics, displayed the first few rows of data. The code also asked at the end if they user wanted to restart or not and if they said yes they went through the process again.
 
