@@ -124,7 +124,7 @@ def station_stats(df):
     
     print("\nThis took %s seconds." % (time.time() - start_time))
 
-def time_stats(df):
+def travel_time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
